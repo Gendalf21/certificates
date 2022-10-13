@@ -1,19 +1,19 @@
 # Свидетельства
 
 ### Свидетельство о прохождении обучения по программе "HTML-верстка"
-https://github.com/Gendalf21/certificates/blob/master/Свидетельство%20HTML-верстка.PNG
+![](https://github.com/Gendalf21/certificates/blob/master/Свидетельство%20HTML-верстка.PNG)
 
 ### Свидетельство о прохождении обучения по программе "Ручное тестирование веб-приложений"
-https://github.com/Gendalf21/certificates/blob/master/Свидетельство%20Ручное%20тестирование%20веб-приложений.PNG
+![](https://github.com/Gendalf21/certificates/blob/master/Свидетельство%20Ручное%20тестирование%20веб-приложений.PNG)
 
 ### Свидетельство о прохождении обучения по программе "Git — система контроля версий"
-https://github.com/Gendalf21/certificates/blob/master/Свидетельство%20Git%20—%20система%20контроля%20версий.PNG
+![](https://github.com/Gendalf21/certificates/blob/master/Свидетельство%20Git%20—%20система%20контроля%20версий.PNG)
 
 ### Свидетельство о прохождении обучения по программе "Java для тестировщиков"
-https://github.com/Gendalf21/certificates/blob/master/Свидетельство%20Java%20для%20тестировщиков.PNG
+![](https://github.com/Gendalf21/certificates/blob/master/Свидетельство%20Java%20для%20тестировщиков.PNG)
 
 ### Свидетельство о прохождении обучения по программе "Автоматизированное тестирование"
-https://github.com/Gendalf21/certificates/blob/master/Свидетельство%20Автоматизированное%20тестирование.PNG
+![](https://github.com/Gendalf21/certificates/blob/master/Свидетельство%20Автоматизированное%20тестирование.PNG)
 
 ### Свидетельство о прохождении обучения по программе "Тестировщик ПО"
-https://github.com/Gendalf21/certificates/blob/master/Свидетельство%20Тестировщик%20ПО.PNG
+![](https://github.com/Gendalf21/certificates/blob/master/Свидетельство%20Тестировщик%20ПО.PNG)
