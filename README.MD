@@ -1,8 +1,8 @@
 # Диплом и свидетельства
 
 ### Диплом о профессиональной переподготовке по программе "Тестировщик ПО"
-
-
+![](https://github.com/Gendalf21/certificates/blob/master/Диплом.png)
+![](https://github.com/Gendalf21/certificates/blob/master/Диплом%20приложение.png)
 
 ### Свидетельство о прохождении обучения по программе "HTML-верстка"
 ![](https://github.com/Gendalf21/certificates/blob/master/Свидетельство%20HTML-верстка.PNG)
